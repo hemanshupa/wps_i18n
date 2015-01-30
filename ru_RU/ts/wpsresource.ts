@@ -1618,7 +1618,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation>Показать окончательную разметку; Окончательный; Показать оригинал разметки; Оригинал</translation>
+        <translation>Окончательный документ: показать исправления; Окончательный документ; Исходный документ: показать исправления; Исходный документ</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -6381,7 +6381,7 @@ Comment</source>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation>Показать окончательную разметку; Окончательный; Показать оригинал разметки; Оригинал</translation>
+        <translation>Окончательный документ: показать исправления; Окончательный документ; Исходный документ: показать исправления; Исходный документ</translation>
     </message>
     <message>
         <source>Insert Comment</source>
@@ -14714,7 +14714,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation>Показать окончательную разметку; Окончательный; Показать оригинал разметки; Оригинал</translation>
+        <translation>Окончательный документ: показать исправления; Окончательный документ; Исходный документ: показать исправления; Исходный документ</translation>
     </message>
     <message>
         <source>Highlight</source>
